@@ -7,9 +7,12 @@
 }
 .welcome-header__title {
   margin-bottom: 20px;
-  font-size: 25px;
+  font-size: 30px;
+  color: darkslategrey;
+  font-weight: bolder;
 }
 .welcome-header__text {
+  margin-top: 10px;
   width: 60%;
   opacity: 0.7;
 }
@@ -41,7 +44,8 @@
 }
 
 #login-form input[type="submit"] {
-  background-color: var(--yellow);
+  background-color: darkslategrey;
+  color: white;
   cursor: pointer;
   padding: 20px 0px;
   border-radius: 5px;
