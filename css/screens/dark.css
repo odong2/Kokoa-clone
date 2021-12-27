@@ -1,0 +1,14 @@
+#darkmode-settings {
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
+#darkmode-settings {
+  color: white;
+}
+
+.darkmode-nav {
+  background-color: rgba(0, 0, 0, 0.6);
+}
+.darkmode-nav i {
+  color: white;
+}
